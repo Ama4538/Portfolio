@@ -1,6 +1,22 @@
 {
     "projects": [
         {
+            "id": "yahtzee",
+            "name": "Yahtzee",
+            "projectType": "Mobile Game",
+            "coverImageLocation": "main.png",
+            "additionalImageLocation": [
+                "mini.png", "how to play.png", "end screen.png"
+            ],
+            "overview": "I built a mobile version of Yahtzee with both mini and full game modes. It includes roll animations, dice locking, scoring mechanics, and a dynamic XML based UI for engaging gameplay. Developed in Java with ConstraintLayout for responsive design and smooth performance.",
+            "tools": [
+                "Java", "XML", "Android Studio"
+            ],
+            "links": [],
+            "styleGuideLocation": "Style Guide.png",
+            "imageTypeLong": false
+        },
+        {
             "id": "tracer",
             "name": "Tracer",
             "projectType": "Desktop Automation Tool",
@@ -20,7 +36,7 @@
                     "address": "https://github.com/Ama4538/Tracer"
                 }],
             "styleGuideLocation": "Style Guide.png",
-            "imageTypeLong": false
+            "imageTypeLong": true
         },
         {
             "id": "component-library",

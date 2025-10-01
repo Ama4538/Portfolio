@@ -2,28 +2,22 @@
     "statement": "I’m a Computer Science student at George Mason University who loves building web applications that are clean, intuitive, and genuinely helpful. I'm interested in creating tools that support national defense and the public sector, areas where the right internal application can make a difference in how teams work and communicate. \n\nI take a user first approach to development. Whether it’s improving workflows or making UI more usable, I always try to think from the end user’s perspective. My goal is to build applications that aren't just functional, but also make someone's job easier, smoother, and less frustrating. I believe it’s not just about writing code, it’s about creating thoughtful designs that helps users stay focused and make tools feel natural to use. \n\n Outside of coding, I’m usually at the gym, walking trails, or playing games. I'm always looking to grow as a frontend developer and contribute to projects that solve problems and have a meaningful impact.",
     "experience": [
         {
+            "title": "Software Engineer Co-op",
+            "company": "U.S NRL (Sponsorship)",
+            "startData": "Sep. 2025",
+            "endData": "Present"
+        },
+        {
             "title": "Software Engineer Intern",
             "company": "Federal Reserve Board",
             "startData": "May 2025",
-            "endData": "August 2025"
-        },
-        {
-            "title": "Retail Cashier",
-            "company": "Boba Hero LV UP",
-            "startData": "Oct 2021",
-            "endData": "Jan 2022"
-        },
-        {
-            "title": "Barista",
-            "company": "Panda Tea House",
-            "startData": "Dec 2018",
-            "endData": "Dec 2019"
+            "endData": "Aug. 2025"
         }
     ],
     "education": {
         "school": "George Mason University",
         "degree": "B.S Computer Science",
-        "startDate": "August 2023",
+        "startDate": "Aug. 2023",
         "endData": "May 2026"
     },
     "skills": [
