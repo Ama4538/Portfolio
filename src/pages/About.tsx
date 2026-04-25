@@ -59,9 +59,7 @@ const About = () => {
                         ))}
                     </div>
                 </section>
-                <div className="flex justify-center mt-16 lg:mt-12 mb-4 lg:mb-8">
-                    <Button label="Resume" action={openResume} />
-                </div>
+                <div className="flex justify-center mt-16 lg:mt-12 mb-4 lg:mb-8"/>
             </main>
             <Footer />
         </>

@@ -22,7 +22,6 @@ const Contact = () => {
                 <div className="mx-auto aspect-square w-[100%] md:w-[75%] lg:w-[65%] xl:w-[80%] 2xl:w-[75%] xl:ml-auto xl:mx-0 order-1 xl:order-2">
                     <ContactIllustration height={`100%`} width={`100%`}/>
                 </div>
-
             </main>
             <Footer />
         </div>

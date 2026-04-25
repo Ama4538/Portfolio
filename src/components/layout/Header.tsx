@@ -10,7 +10,7 @@ const Header = () => {
                     <h1 className="font-title font-medium text-5xl md:text-7xl 2xl:text-8xl">Kevin Ly</h1>
                     <MobileNav extra="lg:hidden" />
                 </div>
-                <h2 className="font-body text-sm md:text-lg 2xl:text-xl">Software Engineering Intern</h2>
+                <h2 className="font-body text-sm md:text-lg 2xl:text-xl">Software Engineering</h2>
             </div>
             <Nav extra="hidden lg:flex" />
         </header>

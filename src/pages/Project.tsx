@@ -14,8 +14,13 @@ import { projects } from "../data/ProjectData.json"
 const Project = () => {
     // Getting project
     const { projectName } = useParams<{ projectName?: string }>();
-    const formatProjectName = projectName ? projectName.replaceAll(" ", "-") : undefined;
+    const formatProjectName = projectName ? projectName.replace(/ |%20/g, "-") : undefined;
     const currentProject = projects.find((project) => project.id == formatProjectName);
+
+    console.log(formatProjectName);
+    console.log(currentProject);
+    
+    
 
     return (
         <>

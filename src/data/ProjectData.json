@@ -1,6 +1,27 @@
 {
     "projects": [
         {
+            "id": "us-nrl-human-project",
+            "name": "US NRL Human Project",
+            "projectType": "Sponsership",
+            "coverImageLocation": "main.png",
+            "additionalImageLocation": [
+                "wireframe.png"
+            ],
+            "overview": "I designed and developed a Python based data collection dashboard for the U.S. Naval Research Laboratory to capture human operator gameplay data within their maritime capture the flag simulator. This sponsorship project involved leading a four person team to deliver a functional data dashboard that directly supports machine learning model development.",
+            "tools": [
+                "Python", "PySide6", "Pyquaticus"
+            ],
+            "links": [
+                {
+                    "label": "Code",
+                    "address": "https://github.com/Ama4538/NRL---Human"
+                }
+            ],
+            "styleGuideLocation": "Style Guide.png",
+            "imageTypeLong": true
+        },
+        {
             "id": "yahtzee",
             "name": "Yahtzee",
             "projectType": "Mobile Game",
