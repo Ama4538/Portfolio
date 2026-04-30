@@ -1,6 +1,5 @@
 // Components
 import Skill from "../components/utilities/Skill"
-import Button from "../components/utilities/Button"
 
 // Layout
 import Header from "../components/layout/Header"
@@ -10,11 +9,6 @@ import Footer from "../components/layout/Footer"
 import aboutData from "../data/AboutData.json"
 
 const About = () => {
-    // Open resume
-    const openResume = () => {
-        window.open("Kevin Ly Resume.pdf", "_blank");
-    }
-
     return (
         <>
             <Header />
