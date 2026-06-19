@@ -16,7 +16,6 @@ const Contact = () => {
                     <span>Let's Talk!</span>
                     <div className="flex flex-col items-center xl:items-start mt-4 gap-3 md:gap-4 md:mt-6 lg:pt-5 xl:pt-2">
                         <a href="mailto:Kevin.t.ly@outlook.com" target='_blank' className="relative w-max md:text-3xl xl:pb-1 text-lg lg:text-4xl 2xl:text-4xl xl:text-3xl before:content-[''] before:absolute before:left-0 before:bottom-0 before:h-[1px] before:w-full before:bg-white duration-[0.30s] transition-all ease-in-out hover:translate-y-[-5%] cursor-pointer">Kevin.t.ly@Outlook.com</a>
-                        <span className="text-lg md:text-3xl lg:text-4xl 2xl:text-4xl xl:text-3xl">+1 (703) 203 7054</span>
                     </div>
                 </div>
                 <div className="mx-auto aspect-square w-[100%] md:w-[75%] lg:w-[65%] xl:w-[80%] 2xl:w-[75%] xl:ml-auto xl:mx-0 order-1 xl:order-2">
